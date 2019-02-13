@@ -5,7 +5,8 @@ Material:
   serializedVersion: 6
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: RockChunk_Mat
   m_Shader: {fileID: 4800000, guid: 99701266ed15adf44a64a526e4992f29, type: 3}
   m_ShaderKeywords: 
@@ -107,7 +108,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - Vector1_156415B: 0.48
+    - Vector1_156415B: -0.31
     - Vector1_46936154: 0.26
     - Vector1_5475FB6C: -17.17
     - Vector1_5C810CB9: 1.89

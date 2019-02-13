@@ -5,7 +5,8 @@ Material:
   serializedVersion: 6
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: GunMat-PhaseInAndOut
   m_Shader: {fileID: 4800000, guid: 298113905a19f48939146afcb6c78969, type: 3}
   m_ShaderKeywords: 
@@ -35,7 +36,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - Vector1_A235A670: 0.2
-    - Vector1_F753BD1D: 0.02
+    - Vector1_A235A670: 0.19
+    - Vector1_F753BD1D: 0.028
     m_Colors:
     - Color_C3BC14AD: {r: 1, g: 0, b: 0, a: 1}
